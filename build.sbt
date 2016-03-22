@@ -1,0 +1,6 @@
+name := "scala_in_depth"
+
+version := "1.0"
+
+scalaVersion := "2.11.8"
+    
